@@ -1,9 +1,15 @@
 ﻿# Unity练习2 - VFX视觉特效
 
+油管上看到的一个[VFX教程](https://www.youtube.com/watch?v=h4SBACYb26k)
+
+挺酷的，尝试制作了一下
+
 ---
 
 主要效果：
 ![animation](./Assets/pic.gif)
+
+**GIF图有20M**
 
 主要学习内容：
 
