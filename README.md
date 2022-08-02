@@ -6,12 +6,17 @@
 
 ---
 
-主要效果：
+## 主要效果
+
+### 静态图展示
+![editor](https://s2.loli.net/2022/08/02/PRUbNQphEDBVr3i.png)
+
+### GIF图展示
 ![animation](./Assets/pic.gif)
 
 **GIF图有20M**
 
-主要学习内容：
+## 主要学习内容
 
  - 使用粒子特效加上书籍的贴图来完成大量书籍的创建
  - 简单用了下`HDRP`
